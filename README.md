@@ -10,6 +10,7 @@
 
 - 🛠️ Pracuji na vlastních projektech pro školu
 - 🎓 Učím se **C#**, **HTML/CSS/PHP**, **JavaScript**
+- 📅 Připravuji se na maturitu
 - 🎯 Můj cíl: stát se zkušeným full-stack web vývojářem
 
 ---
